@@ -32,3 +32,4 @@
 ___This Tool is Free For Thunder Rulex User.___</br>
 
 ## SCREENSHOT :
+![Screenshot_20241003-090237](https://github.com/user-attachments/assets/f18c4793-e722-456e-848b-b72ca8d37c90)

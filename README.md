@@ -22,7 +22,7 @@
 
 * `rm -rf Zohan-old`
 
-* `git clone https://github.com/Z0h9n/ZohanConvo`
+* `git clone https://github.com/Z0h9n/Zohan-old.git`
 
 * `cd Zohan-old`
 
